@@ -46,5 +46,5 @@ The dataset used for this project is the fetal health dataset, which includes 21
 
 ## Tools and Libraries
 
-- **Python Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- **Python Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn.
 - **Google Colab**: For running and sharing the notebook
